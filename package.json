@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-andrey",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "hexlet-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DedMazai36/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet-js"
+  ],
+  "author": "Andrey Koliukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DedMazai36/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/DedMazai36/hexlet-js#readme"
+}
